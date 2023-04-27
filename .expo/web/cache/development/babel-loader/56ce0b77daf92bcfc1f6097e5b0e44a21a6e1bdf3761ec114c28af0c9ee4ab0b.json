@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default App = function App() {};","map":{"version":3,"names":["App"],"sources":["C:/Users/sobabl/Documents/github/goit/goit-react-native-hw-02/App.tsx"],"sourcesContent":["\n\n\n\nexport default App = () => {\n\n}"],"mappings":"AAIA,eAAeA,GAAG,GAAG,SAAAA,IAAA,EAAM,CAE3B,CAAC"},"metadata":{},"sourceType":"module","externalDependencies":[]}
